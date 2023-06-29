@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 980" class="svg-new">
+            <g class="is-small is-active" data-callout="helmet">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="470.6" cy="154.9" r="10"/>
+            	<circle fill="#FFFFFF" cx="470.6" cy="154.9" r="6.6"/>
+            </g>
+            <g class="is-small" data-callout="elbow">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="543.8" cy="422.6" r="10"/>
+            	<circle fill="#FFFFFF" cx="543.8" cy="422.6" r="6.6"/>
+            </g>
+              <g class="is-small" data-callout="gloves">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="534.5" cy="557.7" r="10"/>
+            	<circle fill="#FFFFFF" cx="534.5" cy="557.7" r="6.6"/>
+            </g>
+            <g class="is-small" data-callout="knee">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="345.1" cy="615.6" r="10"/>
+            	<circle fill="#FFFFFF" cx="345.1" cy="615.6" r="6.6"/>
+            </g>
+            <g class="is-small" data-callout="visor">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="370.3" cy="202.8" r="10"/>
+            	<circle fill="#FFFFFF" cx="370.3" cy="202.8" r="6.6"/>
+            </g>
+            <g class="is-small" data-callout="zippers">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="322.8" cy="490" r="10"/>
+            	<circle fill="#FFFFFF" cx="322.8" cy="490" r="6.6"/>
+            </g>
+
+            <g class="is-large is-active" data-callout="helmet">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="470.6" cy="154.9" r="17.5"/>
+            	<circle fill="#FFFFFF" cx="470.6" cy="154.9" r="11.6"/>
+            </g>
+            <g class="is-large" data-callout="elbow">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="543.8" cy="422.6" r="17.5"/>
+            	<circle fill="#FFFFFF" cx="543.8" cy="422.6" r="11.6"/>
+            </g>
+              <g class="is-large" data-callout="gloves">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="534.5" cy="557.7" r="17.5"/>
+            	<circle fill="#FFFFFF" cx="534.5" cy="557.7" r="11.6"/>
+            </g>
+            <g class="is-large" data-callout="knee">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="345.1" cy="615.6" r="17.5"/>
+            	<circle fill="#FFFFFF" cx="345.1" cy="615.6" r="11.6"/>
+            </g>
+            <g class="is-large" data-callout="visor">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="370.3" cy="202.8" r="17.5"/>
+            	<circle fill="#FFFFFF" cx="370.3" cy="202.8" r="11.6"/>
+            </g>
+            <g class="is-large" data-callout="zippers">
+            	<circle fill="#FFFFFF" fill-opacity="0.5" cx="322.8" cy="490" r="17.5"/>
+            	<circle fill="#FFFFFF" cx="322.8" cy="490" r="11.6"/>
+            </g>
+          </svg>

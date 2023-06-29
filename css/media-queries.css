@@ -1,0 +1,97 @@
+/* Media Queries */
+@media (max-width: 960px) {
+  /* Hide Desktop Menu */
+  .desktop-main-menu {
+    display: none;
+  }
+
+  /* Show main mobile items */
+  .mobile-only {
+    display: block;
+  }
+
+  .logo {
+    width: 200px;
+    margin: auto;
+  }
+
+  .logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 600px) {
+  .section-inner {
+    bottom: 75px;
+    left: 20px;
+  }
+
+  .section-inner h4 {
+    font-size: 1.25rem;
+  }
+
+  .section-inner h2 {
+    font-size: 2.25rem;
+  }
+
+  footer ul li:first-child {
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    margin-bottom: 20px;
+    transform: translate(-50%, -50%);
+  }
+
+  footer ul li {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  .logo {
+    width: 160px;
+    margin: auto;
+  }
+
+  .logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 418px) {
+  .logo {
+    min-width: 150px;
+    margin: auto;
+    margin-top: 30px;
+  }
+
+  .logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .hamburger {
+    top: 35px;
+    right: 24px;
+  }
+
+  footer {
+    padding-block: 54px;
+  }
+
+  footer ul li:first-child {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    top: 40px;
+    font-size: 0.8rem;
+  }
+
+  footer ul li {
+    font-size: 0.75rem;
+  }
+}
